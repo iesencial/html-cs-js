@@ -1,0 +1,13 @@
+h1{
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  font-family: Verdana;
+  font-size: 4em;
+  text-align: center;
+}
+header,
+aside,
+footer {
+  background-color:yellow
+}
